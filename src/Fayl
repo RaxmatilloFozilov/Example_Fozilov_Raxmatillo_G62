@@ -1,0 +1,12 @@
+1. CompletableFuture va Future o'rtasidagi farq
+Futuredagi kamchiliklar borki CompletableFuture qo'shilgan
+Future Java 5 da asinxron vazifa natijasini olish uchun qo‘shilgan lekin unda kamchiliklar mavjud
+get() metodi natijani kutib, threadni bloklayd Vazifalarni zanjirlab (chaining) bajarib bo‘lmaydi. Bir nechta tasklarni birlashtirish qiyin
+
+
+
+2.Theread Pools nima ekanligiga va nima uchun qo'shilgan hamda javada qanday theed pool lar yaratsa bo'lashini batafsil ko'rib chiqamiz
+Thread Pool — oldindan yaratilgan va qayta ishlatiladigan threadlar to‘plami
+
+3.Javada Thread-safe collection larga misollarni ham korib chiqamiz
+
